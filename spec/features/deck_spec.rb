@@ -1,4 +1,5 @@
 require "spec_helper"
+require "Deck"
 
 describe Deck do
   before do
